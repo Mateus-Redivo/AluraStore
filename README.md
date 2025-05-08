@@ -57,11 +57,7 @@ jupyter notebook notebooks/
 
 📊 Matplotlib: Criação de visualizações e gráficos
 
-📈 Seaborn: Visualizações estatísticas avançadas
-
 🔢 Matplotlib.ticker: Formatação personalizada dos eixos
-
-🧮 NumPy: Computação numérica
 
 --------------
 
